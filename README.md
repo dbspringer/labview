@@ -19,7 +19,7 @@ Returns current time in Unix UTC format.
 
 Write Cluster
 -----------------------------
-Writes the given cluster to the given TDMS file. Most of the basic types are supported, please view the VI for which ones.
+Writes the given cluster of arbitrary element types to the given TDMS file. Most of the basic types are supported, please view the VI for which ones.
 
 * Depends on **OpenG LabVIEW Data Library**
 
